@@ -1,0 +1,9 @@
+This Project is a Big Data Project and was done through AWS specifically in EMR Wokrspace
+
+This study focuses on developing predictive models to estimate the number of mentions within the Global Database of Events, Language, and Tone (GDELT) dataset. GDELT is a comprehensive collection of global news and events, documented from various sources around the world. Leveraging big data and cloud computing technologies, we aim to gain valuable insights into trends of real-world events. Our study encompasses the following areas:
+
+Predictive Modeling: Implementing and evaluating different machine learning models to accurately predict number of mentions.
+Feature Importance: By determining the most influential factors that affects the mention counts, we aim to uncover patterns in global news dissemination
+Big Data Integration: Utilization of cloud computing resources to manage and process the vast GDELT dataset efficiently.
+
+Based on the result, we are able to create a model that can predict the number of mentions with an average error of under 3. This is quite a good result with a significant improvement over the baseline with an average error of 13, and shows that the features that are in GDELT are actually able to capture important factors that affect news importance. The top three features that affect the number of mentions are isolated into the Actor1Name, Actor1CountryCode, and the Actor1Code. Since these are all string indexes, that means that it is the frequency of the item which is correlated with the importance of the event in the news. Most likely, this is because the most attention grabbing events and actors are also the most commonly covered and mentioned events. What is surprising is that the goldstein score which is meant to be a measurement of the impact of conflict or cooperation is very low on feature importance and has low predictive power of event importance.
