@@ -1,0 +1,12 @@
+user,course,label
+jed,"{'datasciencemathskills', 'probabilistic-models-in-nlp', 'game-development', 'google-machine-learning'}",0
+christian,"{'machine-learning-projects', 'python-programming-introduction', 'ux-design-fundamentals'}",0
+alyannah,"{'supply-chain-logistics', 'six-sigma-organization-advanced', 'big-history', 'creative-problem-solving', 'social-psychology'}",1
+yannah,"{'data-visualization-tableau', 'python', 'object-oriented-java', 'ux-design-fundamentals'}",0
+enzo,"{'sql-data-science', 'data-visualization-tableau', 'python'}",0
+bryan,"{'neural-networks-deep-learning', 'natural-language-processing-tensorflow', 'data-visualization-tableau', 'google-machine-learning'}",0
+anish,"{'introduction-trading-machine-learning-gcp', 'applied-data-science-capstone', 'big-data-essentials', 'tensorflow-sequences-time-series-and-prediction'}",0
+warren,"{'introduction-trading-machine-learning-gcp', 'python-databases', 'fundamentals-of-reinforcement-learning', 'python-for-data-visualization', 'natural-language-processing-tensorflow', 'basic-statistics'}",0
+ana_1,"{'marketing-digital', 'writing-for-business', 'food-beverage-management'}",1
+ana_0,{'python-plotting'},0
+greg,"{'sql-data-science', 'nlp-sequence-models', 'python-programming-introduction'}",0
