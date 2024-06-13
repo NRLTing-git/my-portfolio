@@ -1,3 +1,5 @@
+Open Lab_Technical Report.ipynb or Lab_Technical Report.html
+
 In this folder, we showcase the capability of different cluseting techniques. 
 The dataset used was World Development Index, a comprehensive dataset with diverse global data, focusing specifically on educational aspects.
 The primary objectives were to unearth patterns in global educational data, understand the diversity of educational systems, and relate foundational education to overall educational outcomes.
