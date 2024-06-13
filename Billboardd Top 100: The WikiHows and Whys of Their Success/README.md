@@ -2,6 +2,6 @@ This study explores the key determinants of success for artists featured on Bill
 
 Key findings of the study are found below:
 
-The study reveals a dominance of U.S.-based artists in the Billboard charts, particularly those in genres such as pop, rock, and hip-hop.
-Emerging Trends: While traditional genres persist, the study identifies a growing appreciation for emerging trends like reggaeton, EDM, and R&B, suggesting a shift in listener preferences.
-The prominence of international artists indicates global opportunities for diversification, urging record labels to adopt comprehensive strategies beyond regional boundaries.
+1. The study reveals a dominance of U.S.-based artists in the Billboard charts, particularly those in genres such as pop, rock, and hip-hop. <br>
+2. Emerging Trends: While traditional genres persist, the study identifies a growing appreciation for emerging trends like reggaeton, EDM, and R&B, suggesting a shift in listener preferences. <br>
+3. The prominence of international artists indicates global opportunities for diversification, urging record labels to adopt comprehensive strategies beyond regional boundaries.
